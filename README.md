@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Igor</h1>
 
-- 🌱 I’m currently learning - **c++, javascript**
+- 🌴 I’m currently learning - **c++, javascript**
 
 - 📫 How to reach me - **igorgorski505@gmail.com**
 
-- ⚡ Fun fact - **I also make music and drawings**
+- 🎸 Hobby - **I also make music and drawings**
 
 <p align="left">
 </p>
