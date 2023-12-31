@@ -4,7 +4,7 @@
 
 - 📫 How to reach me - **igorgorski505@gmail.com**
 
-- 🎸 Hobby - **making music and drawings**
+- 🎸 Hobby - **making music, drawings and watching movies/series**
 
 <p align="left">
 </p>
