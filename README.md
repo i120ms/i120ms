@@ -7,7 +7,7 @@
 - 🎸 Hobby - **making music, drawings and watching movies/series**
 
 <p align="left">
-  <a href="https://instagram.com/i.120ms" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://i.pinimg.com/564x/86/08/cc/8608cce40e22afd979e926507479a909.jpg)" alt="i.120ms" height="30" width="40" /></a>
+  <a href="https://instagram.com/i.120ms" target="blank"><img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg]" alt="i.120ms" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
