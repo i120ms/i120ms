@@ -2,9 +2,9 @@
 
 - 🌴 I’m currently learning - **c++, javascript**
 
-- 📫 How to reach me - **igorgorski505@gmail.com**
+- 🌱 How to reach me - **igorgorski505@gmail.com**
 
-- 🎸 Hobby - **making music, drawings and watching movies/series**
+- 🌵 Hobby - **making music, drawings and watching movies/series**
 
 <p align="left">
   <a href="https://instagram.com/i.120ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.120ms" height="30" width="40" /></a>
