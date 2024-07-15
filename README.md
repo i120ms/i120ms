@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Igor</h1>
 
-- I’m currently learning - **c++, javascript**
+- Learning - **c++, javascript**
 
 - How to reach me - **igorgorski505@gmail.com**
 
