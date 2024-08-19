@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Igor</h1>
+<h1 align="center">Igor</h1>
 
 - Learning - **c++, javascript**
 
