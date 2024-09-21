@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  never120ms
+  i120ms
 </h1>
 
 <p align="center">
