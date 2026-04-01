@@ -13,7 +13,7 @@
 
 ###
 
-![GIF](https://media.discordapp.net/attachments/725001799924449290/1488997270916562964/mona-loading-dark-7701a7b97370.gif?ex=69ced045&is=69cd7ec5&hm=8c6673088165d7e14ae2a78d5e1ddb17687130eaa93d85f2163e62bada839cde&=&width=257&height=257)
+![GIF](https://media.discordapp.net/attachments/725001799924449290/1489010579078381818/easy.gif?ex=69cedcaa&is=69cd8b2a&hm=a52eddc52bd3cd39c486bca37c1d623e1f789d82ee06e720cce7a52ea90f748a&=&width=482&height=271)
 
 ### About me <3
 
