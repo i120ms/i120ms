@@ -1,7 +1,8 @@
 <h1 align="center">Igor</h1>
 <h5 align="center">i120ms</h5>
 
-###\
+###
+
 <h3 align="left">Programming Languages</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
