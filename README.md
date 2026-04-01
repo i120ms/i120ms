@@ -4,7 +4,7 @@
 ###
 
 <h3 align="left">Programming Languages</h3>
-![Skills Stack Icoziv](https://i.icoziv.workers.dev/icons?i=js,html,css,react&theme=dark)](https://github.com/thuongtruong109/icoziv)
+[![Skills Stack Icoziv](https://i.icoziv.workers.dev/icons?i=js,html,css,react&theme=dark)](https://github.com/thuongtruong109/icoziv)
 
 ###
 
