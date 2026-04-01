@@ -1,7 +1,7 @@
 <h1 align="center">Igor</h1>
 <h5 align="center">i120ms</h5>
 
-### 🛠️ Programming languages
+### Programming languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,cpp,css" alt="Moje technologie" />
 </p>
