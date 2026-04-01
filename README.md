@@ -14,3 +14,4 @@
 ###
 
 ![GIF](https://media.discordapp.net/attachments/725001799924449290/1488997270916562964/mona-loading-dark-7701a7b97370.gif?ex=69ced045&is=69cd7ec5&hm=8c6673088165d7e14ae2a78d5e1ddb17687130eaa93d85f2163e62bada839cde&=&width=257&height=257)
+<iframe style="border-radius:12px" src="https://open.spotify.com/playlist/1AHD1S0dtleHNXYM19wPCo?si=6cf0df01d7954ba6" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
