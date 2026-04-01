@@ -7,6 +7,6 @@
 
 ###
 
-![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=twitter,instagram,facebook,linkedin,tiktok,telegram,discord,reddit,youtube,threads,mastodon)
+![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=instagram,linkedin,tiktok,telegram,discord,reddit,youtube,threads,mastodon)
 
 ###
