@@ -13,7 +13,7 @@
 
 ###
 
-![GIF](https://media.discordapp.net/attachments/725001799924449290/1489010579078381818/easy.gif?ex=69cedcaa&is=69cd8b2a&hm=a52eddc52bd3cd39c486bca37c1d623e1f789d82ee06e720cce7a52ea90f748a&=&width=482&height=271)
+![IMG](https://media.discordapp.net/attachments/725001799924449290/1489010932909740193/channels4_banner.JPG?ex=69cedcfe&is=69cd8b7e&hm=455dc30bc64b66c246a0595c8dd88f1a9f737496c4ebbc3325a87a942fc1ff79&=&format=webp&width=1144&height=189)
 
 ### About me <3
 
