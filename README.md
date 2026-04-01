@@ -20,5 +20,3 @@
 </p>
 
 ###
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i120ms&show_icons=true&locale=en" alt="i120ms" /></p>
