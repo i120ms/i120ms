@@ -1,4 +1,5 @@
-<h3 align="center">i120ms</h3>
+<h3 align="center">Igor</h3>
+<h5 align="center">i120ms</h5>
 
 - 📫 How to reach me **igorgorski505@gmail.com**
 
