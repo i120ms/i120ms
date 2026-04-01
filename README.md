@@ -1,4 +1,4 @@
-<h2 align="centre">Igor - i.120ms</h2>
+<h2 align="left">Igor - i.120ms</h2>
 
 ###
 
