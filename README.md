@@ -15,6 +15,6 @@
 
 ![GIF](https://media.discordapp.net/attachments/725001799924449290/1488997270916562964/mona-loading-dark-7701a7b97370.gif?ex=69ced045&is=69cd7ec5&hm=8c6673088165d7e14ae2a78d5e1ddb17687130eaa93d85f2163e62bada839cde&=&width=257&height=257)
 
-### About me
+### About me <3
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1AHD1S0dtleHNXYM19wPCo?si=720d678b37c0426a)
