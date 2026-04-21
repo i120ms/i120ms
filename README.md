@@ -17,6 +17,7 @@
 
 ### About me <#
 
+<img src="https://skillicons.dev/icons?i=spotify" alt="Spotify" />
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1AHD1S0dtleHNXYM19wPCo?si=720d678b37c0426a)
 
 ###
